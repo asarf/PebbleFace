@@ -1,0 +1,26 @@
+{
+    "author": "seosarfaraz@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial-1",
+    "pebble": {
+        "displayName": "Tutorial 1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "12704644-e292-405d-9eeb-bd2de8988627",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
